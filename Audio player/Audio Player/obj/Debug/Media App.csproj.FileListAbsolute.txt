@@ -1,0 +1,54 @@
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\bin\Debug\FileBase.mdf
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\bin\Debug\FileBase_log.ldf
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\bin\Debug\DataTesting2.exe.config
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\bin\Debug\DataTesting2.exe
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\bin\Debug\DataTesting2.pdb
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\Media App.csproj.AssemblyReference.cache
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\DataTesting2.Login_Form.resources
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\DataTesting2.PlayerUserControl.resources
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\DataTesting2.Properties.Resources.resources
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\DataTesting2.SignupForm.resources
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\Media App.csproj.GenerateResource.cache
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\Media App.csproj.CoreCompileInputs.cache
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\Media App.csproj.Up2Date
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\DataTesting2.exe
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\DataTesting2.pdb
+C:\Users\cmbma\Downloads\DataTesting2_NoExe\DataTesting2_NoExe\obj\Debug\DataTesting2.Media.resources
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\bin\Debug\FileBase.mdf
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\bin\Debug\FileBase_log.ldf
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\bin\Debug\DataTesting2.exe.config
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\bin\Debug\DataTesting2.exe
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\bin\Debug\DataTesting2.pdb
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\Media App.csproj.AssemblyReference.cache
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\DataTesting2.Media.resources
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\DataTesting2.Login_Form.resources
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\DataTesting2.PlayerUserControl.resources
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\DataTesting2.Properties.Resources.resources
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\DataTesting2.SignupForm.resources
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\Media App.csproj.GenerateResource.cache
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\Media App.csproj.CoreCompileInputs.cache
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\Media App.csproj.Up2Date
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\DataTesting2.exe
+C:\Users\cmbma\Downloads\Audio player\DataTesting2_NoExe\obj\Debug\DataTesting2.pdb
+C:\Users\cmbma\Downloads\Audio player\Audio Player\bin\Debug\FileBase.mdf
+C:\Users\cmbma\Downloads\Audio player\Audio Player\bin\Debug\FileBase_log.ldf
+C:\Users\cmbma\Downloads\Audio player\Audio Player\bin\Debug\DataTesting2.exe.config
+C:\Users\cmbma\Downloads\Audio player\Audio Player\bin\Debug\DataTesting2.exe
+C:\Users\cmbma\Downloads\Audio player\Audio Player\bin\Debug\DataTesting2.pdb
+C:\Users\cmbma\Downloads\Audio player\Audio Player\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\cmbma\Downloads\Audio player\Audio Player\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\Media App.csproj.AssemblyReference.cache
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\DataTesting2.Media.resources
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\DataTesting2.Login_Form.resources
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\DataTesting2.PlayerUserControl.resources
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\DataTesting2.Properties.Resources.resources
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\DataTesting2.SignupForm.resources
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\Media App.csproj.GenerateResource.cache
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\Media App.csproj.CoreCompileInputs.cache
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\Media App.csproj.Up2Date
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\DataTesting2.exe
+C:\Users\cmbma\Downloads\Audio player\Audio Player\obj\Debug\DataTesting2.pdb
